@@ -8,5 +8,4 @@ Bem-vindo ao meu espaço! Sou um desenvolvedor com experiência em **Desenvolvim
 Atualmente cursando **Análise e Desenvolvimento de Sistemas**, continuo aprimorando minhas habilidades e explorando novos caminhos.
 
 📧 E-mail: andrejunior011.luiz2020@gmail.com
-#
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreJuniorAJ&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
